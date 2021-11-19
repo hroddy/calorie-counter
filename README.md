@@ -14,7 +14,7 @@
 ## Description
 An application that stores your daily caloric intake and tracks your progress against user defined goals
 
-View the application in action [here](https://{your-heroku-link}.herokuapp.com/).
+View the application in action [here](https://warm-harbor-01230.herokuapp.com/).
 
 ## Screenshot
 ![Screenshot](./public/img/screenshots/001.jpg)
